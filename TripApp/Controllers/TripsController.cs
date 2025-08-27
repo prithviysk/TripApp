@@ -9,6 +9,7 @@ using TripApp.Services;
 
 namespace TripApp.Controllers;
 
+//Creating a trip logic. We basically use Google maps api to send a ployline response to be utilised in the frontend
 [ApiController]
 [Route("api/[controller]")]
 public class TripsController : ControllerBase
