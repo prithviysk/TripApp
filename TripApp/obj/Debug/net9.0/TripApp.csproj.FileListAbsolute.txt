@@ -158,3 +158,4 @@
 /Users/ysk/Desktop/ASP.NET/TripApp/TripApp/obj/Debug/net9.0/TripApp.pdb
 /Users/ysk/Desktop/ASP.NET/TripApp/TripApp/obj/Debug/net9.0/TripApp.genruntimeconfig.cache
 /Users/ysk/Desktop/ASP.NET/TripApp/TripApp/obj/Debug/net9.0/ref/TripApp.dll
+/Users/ysk/Desktop/ASP.NET/TripApp/TripApp/obj/Debug/net9.0/TripApp.sourcelink.json
